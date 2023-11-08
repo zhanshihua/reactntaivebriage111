@@ -1,0 +1,19 @@
+{
+  "name": "reactnativebridge111",
+  "version": "1.0.3",
+  "description": "安卓原生和react native的交互",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "android"
+  ],
+  "author": "xxxx",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
